@@ -1,2 +1,2 @@
-# BFI-Fanal-Project
+# BFI-Final-Project
 BFI "Firm" Fanal Project
